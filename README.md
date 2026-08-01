@@ -1,0 +1,2 @@
+# thiranex
+Data analysis intern
